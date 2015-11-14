@@ -1,8 +1,0 @@
-{
-    "org.apache.cordova.camera": {
-        "source": {
-            "type": "local",
-            "path": "c:\\users\\coder\\documents\\visual studio 2013\\Projects\\kameraKullan\\kameraKullan\\plugins\\org.apache.cordova.camera"
-        }
-    }
-}
